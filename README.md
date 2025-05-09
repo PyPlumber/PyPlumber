@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Welcome to the PyPlumber's shop!
+Welcome to the PyPlumber's Shop Est. 2025!
+
+![PyPlumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyPlumber&show_icons=true&theme=cobalt)
 
 <!--
 **PyPlumber/PyPlumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
